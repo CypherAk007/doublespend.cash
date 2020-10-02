@@ -1,5 +1,5 @@
 # Update vote information
-
+- Must try
 - Requires a Bitcoin Unlimited node running with this patch https://github.com/dgenr8/bitcoinxt/commit/62ec4ca3bba718668f0aab1dc5ff570f9441092f
 - Node must be configured with txindex=1
 - RPC username and password are assumed to be located at ../.bitcoin/bitcoin.conf
